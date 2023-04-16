@@ -1,4 +1,4 @@
-### **DL4H598 Final Project** (Repo is WIP - Work in Progress)
+## **DL4H598 Final Project** (Repo is WIP - Work in Progress)
 ### Project Team #44 - Miles Kopcke and Sergio Rio
 ### {mkopcke2, sav7}@illinois.edu
 ### Paper ID #12 - ["Using recurrent neural network models for early detection of heart failure onset"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391725/)
