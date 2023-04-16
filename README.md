@@ -13,5 +13,6 @@
 ### 2.The GRU model with duration information presents a better AUC score than GRU without duration information (see table 1 for detailed scores comparison).
 ### 3.Confirm prediction times of GRU and MLP models for a single patient are similar to or lower than those reported in the paper (table 2), considering the evolution of CPU processing power since the paper was written.
 
+### As of 4/16/2023 this is project is im "draft phase" with premilinary results confirming successful MarketScan data extraction, preparation, loading and first interation of baseline models (MLP and GRU with multi-hot vector encoding of EHR).
 
 ####  *Choi, Edward, Andy Schuetz, Walter F Stuart, and Jimeng Sun. 2016. "Using recurrent neural network models for early detection of heart failure onset." Journal of the American Medical Informatics Association 24 (2): 361-369. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391725/.
