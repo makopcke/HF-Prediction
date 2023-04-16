@@ -1,8 +1,8 @@
-## **DL4H598 Final Project** (Repo is WIP - Work in Progress)
-## Project Team #44 - Miles Kopcke and Sergio Rio
-## {mkopcke2, sav7}@illinois.edu
-## Paper ID #12 - ["Using recurrent neural network models for early detection of heart failure onset"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391725/)
-## Edward Choi, Andy Schuetz, Walter F Stewart, and Jimeng Sun
+### **DL4H598 Final Project** (Repo is WIP - Work in Progress)
+### Project Team #44 - Miles Kopcke and Sergio Rio
+### {mkopcke2, sav7}@illinois.edu
+### Paper ID #12 - ["Using recurrent neural network models for early detection of heart failure onset"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391725/)
+### Edward Choi, Andy Schuetz, Walter F Stewart, and Jimeng Sun
 
 ### Overview
 ### The scope of this project is to reproduce the main  results claimed by the authors to be “state-of-the-art prediction performance,” outperforming traditional machine learning models. We will run experiments with the two GRU models (with and without time duration information) and the MLP model described in the research paper for all three types of inputs (one-hot encoding, grouped codes, and medical concept vectors based on Skip-gram). 
